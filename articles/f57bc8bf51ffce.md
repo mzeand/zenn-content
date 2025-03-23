@@ -2,7 +2,7 @@
 title: "ModuleNotFoundError: No module named 'cgi'"
 emoji: "🐍"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["python", "python3"]
 published: true
 ---
 
